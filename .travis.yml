@@ -11,8 +11,9 @@ node_js: stable
 
 install:
   - npm install
-  - cd ./test/smole/template
+  - cd ./test/smoke/template
   - npm install
+  - cd ../../../
 
 script:
   - npm test
