@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "nyc mocha",
+    "test:smoke": "node ./test/smoke/index.js",
     "eslint": "eslint ./lib --fix"
   },
   "keywords": [],
