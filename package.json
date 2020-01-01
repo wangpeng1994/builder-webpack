@@ -1,7 +1,7 @@
 {
-  "name": "builder-webpack",
+  "name": "xiaofeng-builder-webpack",
   "version": "1.0.0",
-  "description": "",
+  "description": "A builder webpack project",
   "main": "index.js",
   "scripts": {
     "test": "nyc mocha",
