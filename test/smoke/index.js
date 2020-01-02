@@ -2,7 +2,6 @@
  * 测试构建是否成功
  */
 
-const process = require('process');
 const path = require('path');
 const webpack = require('webpack');
 const rimraf = require('rimraf');
