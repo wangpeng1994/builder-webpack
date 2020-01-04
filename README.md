@@ -21,4 +21,4 @@ Try to Add the following scripts into your project's package.json:
   },
 ```
 
-You can consult the `./node_modules/xiaofeng-builder-webpack/test/smoke/template` directory for an example of project structure.
+You can consult the `./node_modules/xiaofeng-builder-webpack/test/smoke/template` directory for an example of the project structure.
