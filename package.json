@@ -1,6 +1,6 @@
 {
   "name": "xiaofeng-builder-webpack",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A builder webpack project",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,9 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
-  "keywords": ["webpack"],
+  "keywords": [
+    "webpack"
+  ],
   "author": "wangpeng1994",
   "license": "MIT",
   "repository": "https://github.com/wangpeng1994/builder-webpack",
